@@ -29,3 +29,6 @@ services:
 
 volumes:
   postgres_data:
+
+# WARNIN AHORA DEBES PASAR TODO AL SERVER
+
